@@ -1,11 +1,9 @@
-## Marcella Scoczynski Ribeiro Martins
+# Marcella Scoczynski Ribeiro Martins
 
 ![Marcella](mar.jpg)
 
-**Assistant Professor** 
-
+##**Assistant Professor** 
 Federal University of Technology - Parana (UTFPR)
-
 Ponta Grossa, PR, Brazil  
 
 **Research Interests**
