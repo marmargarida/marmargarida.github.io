@@ -3,7 +3,9 @@
 ![Marcella](mar.jpg)
 
 **Assistant Professor** 
+
 Federal University of Technology - Parana (UTFPR)
+
 Ponta Grossa, PR, Brazil  
 
 **Research Interests**
