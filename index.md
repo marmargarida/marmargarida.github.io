@@ -1,6 +1,13 @@
-## Welcome to GitHub Pages
+## Marcella Scoczynski Ribeiro Martins
 
 ![Marcella](mar.jpg)
+
+Assistant Professor 
+Federal University of Technology - Parana (UTFPR)
+Ponta Grossa, PR, Brazil  
+
+Research Interests
+Evolutionary Computation, Metaheuristics, Multi and many optimization problems, Estimation of Distribution Algorithms.
 
 You can use the [editor on GitHub](https://github.com/marmargarida/marmargarida.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
