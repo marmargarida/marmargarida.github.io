@@ -7,9 +7,9 @@ Federal University of Technology - Parana (UTFPR)
 Ponta Grossa, PR, Brazil  
 
 **Research Interests**
--**Optimization**: Numerical and combinatorial optimization, multi and many optimization problems, fitness landscape analysis, modelling, otimizations with simulation;
--**Evolutionary Computation**: Metaheuristics, local search and extensions, genetic Programming, estimation of distribution algorithms, EA theory;
--**Machine learning**: Neural networks, bayesian networks, probabilistic models, surrogate models, theoretical  machine learning.
+- **Optimization**: Numerical and combinatorial optimization, multi and many optimization problems, fitness landscape analysis, modelling, otimizations with simulation;
+- **Evolutionary Computation**: Metaheuristics, local search and extensions, genetic Programming, estimation of distribution algorithms, EA theory;
+- **Machine learning**: Neural networks, bayesian networks, probabilistic models, surrogate models, theoretical  machine learning.
 
 **Formal Education /Degree**
 	- 2014-2017: Federal University of Technology – Paraná - CPGEI – Ph.D. in Computer Engineering
