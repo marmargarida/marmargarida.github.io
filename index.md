@@ -18,25 +18,25 @@ Ponta Grossa, PR, Brazil
 - 2002-2006: State University of Ponta Grossa – Bachelor Degree in Computer Engineering;
   
 **Professional Activity**
-	-Associate Professor at the Electrical Engineering Department in Federal University of Technology – Paraná.  
-    o Automation classes;
-		o Programming Languages classes;
-		o Control Systems;
-		o Industrial Automation.
+- Associate Professor at the Electrical Engineering Department in Federal University of Technology – Paraná.  
+	- Automation classes;
+	- Programming Languages classes;
+	- Control Systems;
+	- Industrial Automation.
   
 **Received Grants and Awards**
-	- 2nd best in Theses Competition (11th edition of CTDIAC (Concurso de Teses e Dissertações em Inteligência Artificial e Computacional) during Brazilian Conference on Intelligent Systems (BRACIS 2018) in São Paulo, Brazil.
-	- Award of the Spotlight Doctoral Thesis at the Theses Contest during 5th IEEE Latin American Conference on Computational Intelligence (LA-CCI 2018) in Guadalajara, México.
-	- I have been selected to the Mevlana Exchange Program in Antalya, Turkey,  during 14 days (September,2018) as a visitor lecturer at the Electrical Engineering Department from at Akdeniz University, giving classes for Graduate Program.
-	- Paper “On the performance of multi-objective estimation of distribution algorithms for combinatorial problems” shortlisted for the best paper award at IEEE  Conference on Evolutionary Computation (CEC2018) in Rio de Janeiro, Brazil.
-	- Association of Computing Machinery (ACM) Travel Grant to attend GECCO 2016 in Denver, Colorado, USA.
-	-  ACM  Travel Grant to attend GECCO 2017 in Berlin, Germany.
-	- ACM Financial support to attend the ACM’s Celebration of 50 Years of the Turing Award conference in San Francisco USA on June, 2017.
+- 2nd best in Theses Competition (11th edition of CTDIAC (Concurso de Teses e Dissertações em Inteligência Artificial e Computacional) during Brazilian Conference on Intelligent Systems (BRACIS 2018) in São Paulo, Brazil.
+- Award of the Spotlight Doctoral Thesis at the Theses Contest during 5th IEEE Latin American Conference on Computational Intelligence (LA-CCI 2018) in Guadalajara, México.
+- I have been selected to the Mevlana Exchange Program in Antalya, Turkey,  during 14 days (September,2018) as a visitor lecturer at the Electrical Engineering Department from at Akdeniz University, giving classes for Graduate Program.
+- Paper “On the performance of multi-objective estimation of distribution algorithms for combinatorial problems” shortlisted for the best paper award at IEEE  Conference on Evolutionary Computation (CEC2018) in Rio de Janeiro, Brazil.
+- Association of Computing Machinery (ACM) Travel Grant to attend GECCO 2016 in Denver, Colorado, USA.
+-  ACM  Travel Grant to attend GECCO 2017 in Berlin, Germany.
+- ACM Financial support to attend the ACM’s Celebration of 50 Years of the Turing Award conference in San Francisco USA on June, 2017.
   
 **Membership**
--Member of ACM-Special Interest Group on Genetic and Evolutionary Computation (SIGEVO).
--Member of IEEE.
--Member of SBC-Sociedade Brasileira de Computação (Brazilian Computer Society).
+- Member of ACM-Special Interest Group on Genetic and Evolutionary Computation (SIGEVO).
+- Member of IEEE.
+- Member of SBC-Sociedade Brasileira de Computação (Brazilian Computer Society).
 
 **Relevant Publications**
 
