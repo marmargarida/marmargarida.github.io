@@ -13,8 +13,8 @@ Ponta Grossa, PR, Brazil
 
 **Formal Education /Degree**
 	- 2014-2017: Federal University of Technology – Paraná - CPGEI – Ph.D. in Computer Engineering
-	- 2008 – 2011: Federal University of Technology – Paraná - CPGEI – Master Degree in Computer Engineering;
-	- 2003 – 2006: Federal University of Technology – Paraná –Technology Degree in Industrial Automation;
+	- 2008-2011: Federal University of Technology – Paraná - CPGEI – Master Degree in Computer Engineering;
+	- 2003-2006: Federal University of Technology – Paraná –Technology Degree in Industrial Automation;
 	- 2002-2006: State University of Ponta Grossa – Bachelor Degree in Computer Engineering;
   
 **Professional Activity**
