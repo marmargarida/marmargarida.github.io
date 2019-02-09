@@ -12,10 +12,10 @@ Ponta Grossa, PR, Brazil
 - **Machine learning**: Neural networks, bayesian networks, probabilistic models, surrogate models, theoretical  machine learning.
 
 **Formal Education /Degree**
-	- 2014-2017: Federal University of Technology – Paraná - CPGEI – Ph.D. in Computer Engineering
-	- 2008-2011: Federal University of Technology – Paraná - CPGEI – Master Degree in Computer Engineering;
-	- 2003-2006: Federal University of Technology – Paraná –Technology Degree in Industrial Automation;
-	- 2002-2006: State University of Ponta Grossa – Bachelor Degree in Computer Engineering;
+- 2014-2017: Federal University of Technology – Paraná - CPGEI – Ph.D. in Computer Engineering
+- 2008-2011: Federal University of Technology – Paraná - CPGEI – Master Degree in Computer Engineering;
+- 2003-2006: Federal University of Technology – Paraná –Technology Degree in Industrial Automation;
+- 2002-2006: State University of Ponta Grossa – Bachelor Degree in Computer Engineering;
   
 **Professional Activity**
 	-Associate Professor at the Electrical Engineering Department in Federal University of Technology – Paraná.  
