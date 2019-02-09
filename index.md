@@ -3,8 +3,8 @@
 ![Marcella](mar.jpg)
 
 # **Assistant Professor** 
-	Federal University of Technology - Parana (UTFPR)
-	Ponta Grossa, PR, Brazil  
+ Federal University of Technology - Parana (UTFPR)
+ Ponta Grossa, PR, Brazil  
 
 **Research Interests**
 - **Optimization**: Numerical and combinatorial optimization, multi and many optimization problems, fitness landscape analysis, modelling, otimizations with simulation;
