@@ -2,9 +2,9 @@
 
 ![Marcella](mar.jpg)
 
-Assistant Professor 
-Federal University of Technology - Parana (UTFPR)
-Ponta Grossa, PR, Brazil  
+#Assistant Professor 
+#Federal University of Technology - Parana (UTFPR)
+#Ponta Grossa, PR, Brazil  
 
 Research Interests
 Evolutionary Computation, Metaheuristics, Multi and many optimization problems, Estimation of Distribution Algorithms.
